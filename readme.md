@@ -166,7 +166,7 @@ Explique com suas palavras:
 
 **Professor responsável:** Vitor Lima Santana
 
-**Desenvolvido por:** [Nome do aluno]
+**Desenvolvido por:** Carlos Daniel De Freitas Cardoso
 
 **Atividade 08 – Desenvolvimento Web e Consumo de APIs REST**"# Projetofron" 
 "# Projetofron" 
